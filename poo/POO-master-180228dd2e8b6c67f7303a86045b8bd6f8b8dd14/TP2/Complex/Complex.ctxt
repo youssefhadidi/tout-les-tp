@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=real\ img
+comment0.target=Complex(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Complex\n
+comment1.params=
+comment1.target=int\ getReal()
+comment1.text=\n\ Returns\ real\ part\n\ @return\ (int)\ real\ part\n
+comment2.params=
+comment2.target=int\ getImg()
+comment2.text=\n\ Returns\ img\ part\n\ @return\ (int)\ img\ part\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Returns\ complex\ object\ to\ string\n\ @return\ (String)\ complex\ object\ to\ string\n
+comment4.params=complex
+comment4.target=Complex\ addTo(Complex)
+comment4.text=\n\ Add\ to\ another\ complex\n\ @param\ complex\ (complex)\ another\ complex\n\ @return\ (complex)\ a\ new\ complex\n
+comment5.params=complex
+comment5.target=Complex\ subTo(Complex)
+comment5.text=\n\ Subs\ to\ another\ complex\n\ @param\ complex\ (complex)\ another\ complex\n\ @return\ (complex)\ a\ new\ complex\n
+comment6.params=
+comment6.target=double\ getModule()
+comment6.text=\n\ Returns\ module\ of\ complex\ object\n\ @return\ (double)\ module\ of\ complex\ object\ \n
+numComments=7

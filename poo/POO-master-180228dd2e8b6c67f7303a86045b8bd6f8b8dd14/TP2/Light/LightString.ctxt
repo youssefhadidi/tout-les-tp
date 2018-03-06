@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=maxLights
+comment0.target=LightString(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ LightString\n
+comment1.params=light
+comment1.target=void\ addLight(Lightbulb)
+comment1.text=\n\ Adds\ a\ lightbulb\n\ @param\ light\ (Lightbulb)\ added\ lightbulb\n
+comment2.params=n
+comment2.target=Lightbulb\ getLight(int)
+comment2.text=\n\ Returns\ the\ nth\ light\n\ @param\ n\ (int)\ index\ of\ returned\ light\n\ @return\ (Lightbulb)\ nth\ light\n
+comment3.params=i\ light
+comment3.target=void\ changeLight(int,\ Lightbulb)
+comment3.text=\n\ Replaces\ a\ lightbulb\n\ @param\ i\ (int)\ index\ of\ changed\ light\n\ @param\ light\ (Lightbulb)\ new\ light\n
+comment4.params=
+comment4.target=void\ Switch()
+comment4.text=\n\ switches\ all\ lights\n
+comment5.params=
+comment5.target=int\ getTotalPower()
+comment5.text=\n\ Returns\ total\ power\n\ @return\ (int)\ total\ power\n
+numComments=6

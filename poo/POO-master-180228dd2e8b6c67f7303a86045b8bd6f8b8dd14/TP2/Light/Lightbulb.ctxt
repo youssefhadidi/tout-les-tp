@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=color\ power
+comment0.target=Lightbulb(java.lang.String,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Lightbulb\n
+comment1.params=
+comment1.target=java.lang.String\ getColor()
+comment1.text=\n\ Returns\ color\ of\ object\ Lightbulb\n\ @return\ (String)\ color\ of\ object\ Lightbulb\n
+comment2.params=
+comment2.target=int\ getPower()
+comment2.text=\n\ Returns\ power\ of\ object\ Lightbulb\n\ @return\ (int)\ power\ of\ object\ Lightbulb\n
+comment3.params=
+comment3.target=boolean\ isOn()
+comment3.text=\n\ Returns\ true\ if\ object\ Lightbulb\ is\ turned\ on,\ else\ false\n\ @return\ (boolean)\ true\ if\ object\ Lightbulb\ is\ turned\ on,\ else\ false\n
+comment4.params=
+comment4.target=void\ Switch()
+comment4.text=\n\ turns\ off\ object\ Lightbulb\ if\ it's\ turned\ on,\ turns\ on\ it\ else\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ details\ of\ object\ Lightbulb\n\ @return\ (String)\ details\ of\ object\ Lightbulb\n
+numComments=6
